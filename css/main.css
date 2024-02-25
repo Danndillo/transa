@@ -19,6 +19,10 @@
   	color: #AFB4BA;
 }
 
+.importantissimo {
+	color: #EE3823;
+}
+
 a.nav-link {
 	color: #EE3823;
 	margin: 8vw;
@@ -38,8 +42,4 @@ nav {
 
 #h6-footer{
 	text-align: center;
-}
-
-.importantissimo {
-	color: #EE3823;
 }
