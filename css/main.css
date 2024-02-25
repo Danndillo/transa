@@ -30,7 +30,7 @@ a.nav-link {
 
 nav {
 	margin: 0em;
-	height: 542px;
+	max-height: 542px;
 	background-image: url("https://danndillo.github.io/transa/img/Transa-Caetano-Veloso.jpg");
 	background-repeat: none;
 	background-position: center;
@@ -38,4 +38,8 @@ nav {
 
 #h6-footer{
 	text-align: center;
+}
+
+.importantissimo {
+	color: #EE3823;
 }
