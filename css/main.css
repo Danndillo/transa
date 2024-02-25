@@ -9,6 +9,24 @@
   font-style: normal;
 }*/
 
+a.nav-link {
+	color: #EE3823;
+	margin: 8vw;
+}
+
+.list-item-main {
+	display: inline;
+}
+
+.nav-main {
+	margin: 0em;
+	width: 100%;
+	height: 60%;
+	background-image: url("https://danndillo.github.io/transa/img/Transa-Caetano-Veloso.jpg");
+	background-repeat: none;
+	background-position: center;
+}
+
 .importantissimo {
 	color: #EE3823;
 }
@@ -23,23 +41,7 @@
   	color: #AFB4BA;
 }
 
-a.nav-link {
-	color: #EE3823;
-	margin: 8vw;
-}
 
-.list-item-main {
-	display: inline;
-}
-
-nav {
-	margin: 0em;
-	width: 100%;
-	height: 60%;
-	background-image: url("https://danndillo.github.io/transa/img/Transa-Caetano-Veloso.jpg");
-	background-repeat: none;
-	background-position: center;
-}
 
 #h6-footer{
 	text-align: center;
